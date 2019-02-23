@@ -140,7 +140,7 @@ This step can be repeated multiple times in a single iteration, allowing us to c
 
 ### Code Samples.
 
-I've included several [code samples](./code_samples) to show how my aseprite exporter works, and also my `C++` [function](./code_samples/pixel_collision.h) for performing pixel collisions, including climbing slopes when making a platform game. 
+I've included several [code samples](./code_samples) to show how my aseprite exporter works, and also my `C++` [function](./code_samples/pixel_collision.h) for performing pixel collisions, including climbing slopes when making a platform game. The C++ source is heavily commented, and gives some more specific detail
 
 As a bonus I have included my version of the classic Gamemaker [collision code](./code_samples/bonus_gamemaker_scripts/MoveAndCollideOnGrid.gml), which I used with a Gamemaker based tile engine. This might help if you want to try something like this in Gamemaker. I only dabbled in Gamemaker for a couple of months, so I have become quite unfamiliar with it, however these scripts were working fine last time I checked. ;)
 
