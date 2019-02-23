@@ -5,7 +5,7 @@
 Quite a few people were interested in the [demo](https://twitter.com/mothteeth/status/1097436572964708352) gif I recently posted of my [Aseprite](https://www.aseprite.org/) based level loader, so I decided to write up a tutorial with some supporting code samples for people to check out.
 
 
-<img src = "images/pixel_edit_demo3.2.gif" />
+<img src = "images/pixel_edit_demo3.3.gif" />
 
 
 This tutorial will discuss two main processes:
