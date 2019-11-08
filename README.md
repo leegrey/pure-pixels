@@ -96,7 +96,7 @@ using System.Diagnostics;
 void AseExport() {
    ProcessStartInfo startInfo = new ProcessStartInfo();
    startInfo.FileName = "node";
-   StartInfo.Arguments = "ase_export.js -win";
+   startInfo.Arguments = "ase_export.js -win";
    Process.Start(startInfo);
 }
  ```
